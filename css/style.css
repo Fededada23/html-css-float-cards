@@ -16,9 +16,26 @@ h1{
     text-align: center;
 }
 
-.row{
+.col{
+    background-color: black;
+    width: 33%;
+    float: left;
 
 
 
+
+}
+.clear::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+p{
+    color: white;
+}
+
+.card{
+    float:left;
     
 }
