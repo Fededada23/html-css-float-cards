@@ -2,13 +2,14 @@
     padding:0;
     margin: 0;
     box-sizing: border-box;
-    font-family:'Fredoka', serif;
+   
    
 }
 
 body{
     width: 75%;
     margin: 0 auto;
+    font-family:'Fredoka', serif;
 }
 
 h1{
