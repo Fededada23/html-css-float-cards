@@ -1,0 +1,24 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 75%;
+    margin: 0 auto;
+}
+
+h1{
+    color: palevioletred;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.row{
+
+
+
+    
+}
